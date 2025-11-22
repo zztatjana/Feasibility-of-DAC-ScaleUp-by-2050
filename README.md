@@ -1,1 +1,1 @@
-Code and Supplementary Material of the publication "Short-term action is key for gigaton-scale Direct Air Capture by 2050"
+R Markdown Code for the Analysis of the Publication "Short-term action is key for gigaton-scale Direct Air Capture by 2050"
